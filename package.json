@@ -1,0 +1,15 @@
+{
+  "name": "maybe-proxy",
+  "version": "1.0.3",
+  "description": "Maybe monad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "monad",
+    "maybe"
+  ],
+  "author": "Uri Gorelik <uri.gore@gmail.com> (http://urigorelik.com)",
+  "license": "ISC"
+}
